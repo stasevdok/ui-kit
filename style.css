@@ -308,6 +308,11 @@ body {
     color: var(--black1000);
 }
 
+.input--inactive {
+    color: var(--black400);
+    background-color: var(--black400);
+}
+
 textarea:focus, input:focus{
     outline: none;
 }
